@@ -1,32 +1,15 @@
-## Welcome to GitHub Pages
+## U-Why
 
-You can use the [editor on GitHub](https://github.com/goodacre/U-Why/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Team Members: Julia Scott, Bryan Shin, Savannah Steele, Dillon Loubser, Chris Drmacich
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project Proposal
 
-### Markdown
+Project Proposal:
+Students who learn from home over Zoom or other platforms find it harder to stay engaged and focused while the teacher is going over notes during class. While the students within the classroom can stay engaged with the notes, the people sitting on the computer listening in have less connection to actually listen to the notes.
+We think that the problem is mostly one-sided, and belongs to the students. There may be concerns that teachers have regarding student participation, but by ensuring that students participate through various means, this alleviates the problems the teacher holds.
+This problem is mostly relevant to students who attend remotely, as those who attend in-person have a better chance to stay engaged with the teacher and their notes, whereas those who attend via Zoom have a higher tendency to lose focus.
+One real-world example would be when Dillon went in person to one class last semester, was the only one who was in person that day, took great notes and understood the material, but when he checked the GroupMe for the class, it was filled with students asking about what the class was about and not understanding the material.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
