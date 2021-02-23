@@ -11,12 +11,10 @@ This problem is mostly relevant to students who attend remotely, as those who at
 One real-world example would be when Dillon went in person to one class last semester, was the only one who was in person that day, took great notes and understood the material, but when he checked the GroupMe for the class, it was filled with students asking about what the class was about and not understanding the material.
 
 
-### Jekyll Themes
+### Milestones
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goodacre/U-Why/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Milestone 1
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Milestone 2
 
 1
